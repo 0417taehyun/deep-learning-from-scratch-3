@@ -1,0 +1,12 @@
+[project]
+name = "deep-learning-from-scratch-3"
+version = "0.1.0"
+description = "Deep Learning from Scratch 3"
+readme = "README.md"
+authors = [
+    { name = "Taehyun Lee", email = "0417taehyun@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.5.4",
+]
